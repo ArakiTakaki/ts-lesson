@@ -1,5 +1,5 @@
 
 # 基本的な排除
 /node_modules
-/dist
+/dist/static
 .DS_Store
