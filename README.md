@@ -1,5 +1,12 @@
 # ts-lesson
 
+## 環境構築
+
+1. `$ git clone https://github.com/ArakiTakaki/ts-lesson`
+1. `$ npm -g install yarn`
+1. `$ yarn`
+1. `$ yarn run start`
+
 ## コマンド一覧
 
 `$ yarn run start`
@@ -21,4 +28,6 @@ material-ui, redux-sagaの復習
 
 ### 予習
 
-スパイ、スタブ、モック、フェイクの知識をつける
+スパイ、スタブ、モック、フェイクの知識をつける。
+
+TypeScriptに手を出して見たかった。
